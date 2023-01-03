@@ -1,18 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/13889819/89195623-03cfdc80-d577-11ea-8433-e0a4e8e03761.png">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3.6+-green.svg"/>&nbsp;
-  
-  <a href="https://github.com/m8r0wn/taser/LICENSE">
-  <img src="https://img.shields.io/badge/License-BSD%203--Clause-red.svg"></a>&nbsp;
-  
-  <a href="https://github.com/m8r0wn/taser/wiki">
-  <img src="https://img.shields.io/badge/Documentation-wiki-green.svg"/></a>&nbsp;
-   
-   <a href="https://www.twitter.com/m8r0wn">
-  <img src="https://img.shields.io/badge/Twitter-@m8r0wn-blue.svg"/></a>&nbsp;
-</p>
-
 ## Examples
 * ```dnslookup.py``` - Perform DNS and reverse DNS lookups on a variety of host inputs. Added features allow users to define name servers and test zone transfers.
 * ```get_header.py``` - Performs web requests and retrieves information about the site including HTTP response headers for further analysis & target prioritization. 
